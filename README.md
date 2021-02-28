@@ -1,2 +1,2 @@
 # unity3D
-Coding and programming objects in 3D environments with the Unity game engine.
+Coding objects in 3D environments with the Unity game engine. 
