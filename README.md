@@ -1,2 +1,2 @@
 # unity3D
-Coding objects in 3D environments with the Unity game engine. 
+Code samples for programming interactions between objects in digital 3D environments the Unity game engine. 
